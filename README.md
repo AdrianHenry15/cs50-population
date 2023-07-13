@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="200" />
+
 # HarvardX CS50's Introduction To Computer Science
 ## Week 1 Lab: Population
 Determine how long it takes for a population to reach a particular size.
