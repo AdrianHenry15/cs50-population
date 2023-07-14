@@ -26,7 +26,7 @@ To try another example, if we were to start with n = 1000 llamas, at the end of 
 1. Make sure you have a compiler for C programs. Some popular compilers include GCC, Clang, and Microsoft Visual C++.
 2. Clone the repo.
 3. `cd` into the respective directory.
-4. Compile the code `gcc -o cs50-population population.c`.
+4. Compile the code `gcc -o population population.c`.
 5. Start the program `./population`
 
 ### Implementation Details
